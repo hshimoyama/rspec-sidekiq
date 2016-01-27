@@ -1,6 +1,6 @@
 3.0.0
 ---
-*
+* Rename have_enqueued_job to have_enqueued_sidekiq_job due to clash with rspec-rails [mrbrdo]
 
 2.2.0
 ---
